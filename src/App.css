@@ -1,0 +1,23 @@
+
+.botao{
+  width:95px !important;
+  height: 41px !important;
+  border-radius: 10px;
+  
+}
+
+.divBotao{
+
+  
+  flex-direction: column !important;
+  display: flex !important;
+  justify-content: flex-end !important;
+}
+
+.inputData{
+  width: 200px !important;
+}
+.divPesquisa{
+  margin-left: 0px;
+}
+
